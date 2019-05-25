@@ -1,2 +1,2 @@
 # Celestia-Corp
-Devenez un membre de la Team Céléste en nous aidant un développer les bots de la communauté
+Bienvenue sur le Git-Hub de Céléstia Corp, une communauté principalement basé sur discord
