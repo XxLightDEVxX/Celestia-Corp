@@ -1,2 +1,5 @@
-# Celestia-Corp
-Bienvenue sur le Git-Hub de Céléstia Corp, une communauté principalement basé sur discord
+<center>
+<img src="https://cdn.discordapp.com/attachments/498430350398062593/581912161589133342/Copie_de_Objectif_250_Membres.png">
+  
+  # **Céléstia Corp**
+
