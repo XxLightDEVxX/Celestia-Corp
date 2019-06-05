@@ -4,7 +4,7 @@
   # **Céléstia Corp**
 
 Céléstia Corp est une communauté principalement basée sur discord.
-Ce Github servira à ce que chacun d'entre vous puisse participer au différents projets sur lequels nous avons besoin d'aide^^.
+Ce Github servira à ce que chacun d'entre vous puisse participer aux différents projets sur lequels nous avons besoin d'aide^^.
 Nous remercions d'avance les personnes qui nous aideront à contribuer aux serveurs. 
 De plus nous offirons le rôle **"Collaborator Team"** à toutes les personnes qui participeront aux différents projets !
 
@@ -18,9 +18,11 @@ De plus nous offirons le rôle **"Collaborator Team"** à toutes les personnes q
 
 * __CelestiaWorldBot__ : Bot Roleplay. Il servira à automatiser toutes les tâches du futur serveur roleplay **"Céléstia World V2"** comme l'inventaire, la récolte d'item, le craft ect. (Vous ne pouvez participer à ce projet actuellement)
 
+
+
 # Comment Participer aux Projets
 
-__CéléstiaBot__ : Vous trouverez ci dessous un fichier nommé "cmd.js". Cliquez dessus et copier son contenu. Coller le ensuite dans votre logiciel de programmation (pour ma part Visual Studio Code). Vous pourrez ensuite créer votre code. Lorsque vous avez finit, veuillez me prévenir par message privé sur discord (ζ͜͡Lιghτ#4982). Vous trouverez également un fichié appelé "configurationjson.md" qui vous servira à vous montrer comment sont présentés les json du bot
+__CéléstiaBot__ : Vous trouverez ci dessous un fichier nommé "cmd.js". Cliquez dessus et copier son contenu. Coller le ensuite dans votre logiciel de programmation (pour ma part Visual Studio Code). Vous pourrez ensuite créer votre code. Lorsque vous avez finit, veuillez me prévenir par message privé sur discord (ζ͜͡Lιghτ#4982). Vous trouverez également un fichier appelé "configurationjson.md" qui vous servira à vous montrer comment sont présentés les json du bot
 
 ![](https://cdn.discordapp.com/attachments/419076124727967744/585823432533344267/unknown.png)
 
