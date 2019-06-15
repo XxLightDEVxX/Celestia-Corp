@@ -1,5 +1,5 @@
-{"userid":{"coin":0,"bank":0,"accreditation":0}}
+{"userid":{"coin":0,"bank":0,"accreditation":0,"merites":0}}
 
 /* Exemple */
 
-{"369084163262775297":{"coin":150,"bank":0,"accreditation":0}}
+{"369084163262775297":{"coin":150,"bank":2354,"accreditation":2,"merites":10}}
