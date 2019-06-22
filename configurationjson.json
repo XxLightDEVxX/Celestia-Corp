@@ -1,5 +1,7 @@
-{"userid":{"coin":0,"bank":0,"accreditation":0,"merites":0}}
+///////////////// CONFIGURATION profile.json //////////////////////
+
+{"userid":{"coin":0,"bank":0,"accreditation":0,"merites":0,"bStaff":0,"bDivinite":0,"bNitroBooster":0,"bCollaborator":0,"bCeleste":0,"bWinner":0,"NvProfile":"Basique","Groupe":"Aucun","LogoProfile":"https://cdn.discordapp.com/attachments/590147971987800066/590148052162183194/ProfileBasique.png"}}
 
 /* Exemple */
 
-{"369084163262775297":{"coin":150,"bank":2354,"accreditation":2,"merites":10}}
+{"319552441773326336":{"coin":211,"bank":0,"accreditation":0,"merites":0,"bStaff":0,"bDivinite":0,"bNitroBooster":0,"bCollaborator":0,"bCeleste":0,"bWinner":0,"NvProfile":"Basique","Groupe":"Aucun","LogoProfile":"https://cdn.discordapp.com/attachments/590147971987800066/590148052162183194/ProfileBasique.png"}}
