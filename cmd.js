@@ -1,7 +1,7 @@
 const Discord = require("discord.js");
 const fs = require("fs");
 const botconfig = JSON.parse(fs.readFileSync("jsonstorage/botconfig.json", "utf8"));
-const coinfile = JSON.parse(fs.readFileSync("jsonstorage/money.json", "utf8"));
+const profilefile = JSON.parse(fs.readFileSync("jsonstorage/profile.json", "utf8"));
 
 /////////////////////////////////
 //////////BALANCE CMD////////////
